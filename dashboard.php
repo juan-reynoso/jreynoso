@@ -29,7 +29,7 @@ if (!isset($_SESSION['id'])) {
             <nav >
             <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
               <li><a class="nav-link text-white" href="#"> <i class="bi bi-house fw-bold fs-5 pe-2"></i>Home</a></li>
-              <li><a class="nav-link text-white" href="/sistema/logout.php"> 
+              <li><a class="nav-link text-white" href="logout.php"> 
                   <i class="bi bi-box-arrow-in-left fw-bold fs-5 pe-2"></i>Salir
                 </a></li>
 
